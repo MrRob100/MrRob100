@@ -1,3 +1,3 @@
-```I am a PHP / Laravel / Vue / React / Solidity / Blockchain / Web3 dev```
+```I create in PHP & Python ```
 <br>
-```Peace```
+```Let's build something cool```
